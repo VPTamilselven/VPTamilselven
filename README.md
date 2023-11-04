@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Tamilselvan
+- 👨‍💻 All of my projects are available at 
+- 🌱 I’m currently learning MERN Stack web development
+- 📄 Know about my experiences 
+- 📫 How to reach me vptamilselven@gmail.com
+- ⚡ I love to learn new technologies and get adapted to it very quickly
